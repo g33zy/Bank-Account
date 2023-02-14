@@ -1,0 +1,23 @@
+{
+  "name": "js211_bank-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g33zy/Bank-Account.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g33zy/Bank-Account/issues"
+  },
+  "homepage": "https://github.com/g33zy/Bank-Account#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
